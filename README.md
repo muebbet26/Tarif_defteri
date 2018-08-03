@@ -1,3 +1,3 @@
 # recipe_manager
-Recipe Journal:
-A journal keeping your recipes in categories by the ingredients, letting you enter a new recipe, listing the recipes of the desired category
+Tarif defteri: Tarif defterinizin dijital hali
+Tariflerinizi tek bir yerde, kategorilerine göre saklayabiliriz. Yeni tarifler ekleyebilir, dilediğiniz kategorideki tarifleri görebilirsiniz.
